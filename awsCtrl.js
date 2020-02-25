@@ -1,0 +1,3 @@
+AWSAccessKeyId=AKIAI3SEQEAJXBULL3KA
+AWSSecretKey=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
+bucket=imagecontainer001
